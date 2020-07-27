@@ -1,3 +1,4 @@
 Welcom to My Second Repo
+Learning Git is going well so far.
 I added this line in the update-readme-branch.
-It's rainy outside today.
+It's cloudy outside today.
